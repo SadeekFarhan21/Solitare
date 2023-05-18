@@ -2,6 +2,9 @@
 // Libraries for the program 
 import javafx.application.Application;
 import javafx.stage.Stage;
+import javafx.scene.layout.GridPane;
+import javafx.scene.Scene;
+
 // Solitaire Class
 public class Solitaire extends Application {
     
